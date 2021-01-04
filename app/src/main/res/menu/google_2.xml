@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Quebrar linha" />
+    <item android:title="Remover formatação" />
+    <item android:title="Ocultar" />
+    <item android:title="Tamanho" >
+        <menu >
+            <item android:title="10" />
+            <item android:title="20" />
+            <item android:title="30" />
+        </menu>
+    </item>
+</menu>
